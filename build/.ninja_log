@@ -1,0 +1,29 @@
+# ninja log v6
+12	2299	7689957425959135	GeometryVisualizer_autogen/timestamp	da32b4cf56fbf2c1
+12	2299	7689957425959135	GeometryVisualizer_autogen/mocs_compilation.cpp	da32b4cf56fbf2c1
+12	2299	7689957425959135	C:/Users/Rakesh Kolli/Desktop/Cctech/build/GeometryVisualizer_autogen/timestamp	da32b4cf56fbf2c1
+12	2299	7689957425959135	C:/Users/Rakesh Kolli/Desktop/Cctech/build/GeometryVisualizer_autogen/mocs_compilation.cpp	da32b4cf56fbf2c1
+2346	4831	7689957427671426	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/bezier.cpp.obj	ef844d417955d852
+2342	5256	7689957427505061	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/stl_shape.cpp.obj	27567e3bd22f8898
+4831	7841	7689957452524675	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/cuboid.cpp.obj	d92528bd15c8fffd
+5259	8352	7689957456801645	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/cylinder.cpp.obj	258dba4c816aa798
+2335	9214	7689957427505061	CMakeFiles/GeometryVisualizer.dir/shapeinputdialog.cpp.obj	d4c5ff68d1ffd769
+2327	10043	7689957427438239	CMakeFiles/GeometryVisualizer.dir/PolygonWidget.cpp.obj	ce9b1cfd1d10108b
+2317	10875	7689957427338156	CMakeFiles/GeometryVisualizer.dir/main.cpp.obj	790b29e3f3fb2728
+2320	10988	7689957427338156	CMakeFiles/GeometryVisualizer.dir/glwidget.cpp.obj	fa5073fbdf2ec6b9
+7841	11005	7689957482628008	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/line3D.cpp.obj	1c90686960add120
+2331	11146	7689957427505061	CMakeFiles/GeometryVisualizer.dir/mainwindow.cpp.obj	8b4604b76bdea394
+2324	11322	7689957427438239	CMakeFiles/GeometryVisualizer.dir/BezierWidget.cpp.obj	16f5b1cb6391ad57
+2313	11521	7689957427338156	CMakeFiles/GeometryVisualizer.dir/GeometryVisualizer_autogen/mocs_compilation.cpp.obj	16d4fa8d5bc8ba0a
+9214	11830	7689957496345971	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/obj_shape.cpp.obj	be1ba1050871c554
+10043	12018	7689957504622313	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/plot_utils.cpp.obj	b0932ca751a7f8cb
+8353	12135	7689957487738688	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/objToStl.cpp.obj	6f56c14a253a64fe
+11522	12906	7689957519418122	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/transform_utils.cpp.obj	8a446632f20329f5
+11005	13076	7689957514261612	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/scene.cpp.obj	46b380be2392e734
+2339	13126	7689957427505061	CMakeFiles/GeometryVisualizer.dir/shapefactory.cpp.obj	6afb27499ae33732
+10875	13336	7689957512967120	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/polygon.cpp.obj	448b2e340a376f7e
+11323	13597	7689957517445929	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/sphere.cpp.obj	acbda62edd8f1d2
+11830	13735	7689957522446269	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/triangle.cpp.obj	ca349ccbb356d03f
+11147	13902	7689957515687248	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/shape_handlers.cpp.obj	aa61c60ace09dc7c
+10989	14897	7689957514105184	CMakeFiles/GeometryVisualizer.dir/C_/Users/Rakesh_Kolli/Desktop/Cctech/geometry/src/polyline.cpp.obj	8a3993311b2597b0
+14897	16634	7689957553113410	GeometryVisualizer.exe	780189f0cd9b74be
